@@ -29,3 +29,10 @@ This tutorial will teach you CSS from basic to advanced.
 Drag and drop the correct property to set a green background color for a
 
 element. div { : green; }
+
+CSS (Cascading Style Sheets)** is a language used to style and design web pages.
+It controls the layout, colors, fonts, spacing, and overall appearance of HTML elements.
+CSS helps separate the content (HTML) from the design, making websites easier to maintain.
+It can be applied in three ways: **Inline CSS, Internal CSS, and External CSS**.
+
+
