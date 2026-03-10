@@ -1,0 +1,52 @@
+
+div h2 {
+
+        background-color: lemonchiffon;
+        color: brown;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman',serif;
+    }
+
+    p {
+
+        font-size: 30px;
+    }
+
+    li {
+        font-size: 28px;
+        color: black;
+    }
+
+    #text-paragraph {
+        font-size: 28px;
+        color: #dd9589;
+    }
+
+    span {
+        color: red;
+        background-color: yellow;
+    }
+
+    .writeen {
+        background-color: aqua;
+    }
+    .important{
+        font-weight: bold;
+    }
+
+
+    div h2,
+  h1{
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial,
+        sans-serif;
+        color: green;  
+       
+    }
+
+
+
+    #end-heading{
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: green;
+ 
+    }
